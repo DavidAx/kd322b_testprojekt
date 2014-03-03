@@ -10,6 +10,8 @@ import javax.swing.border.EmptyBorder;
 public class MinJFrame extends JFrame {
 
 	private JPanel contentPane;
+	
+
 
 	/**
 	 * Launch the application.
