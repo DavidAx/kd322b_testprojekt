@@ -11,7 +11,7 @@ public class MinJFrame extends JFrame {
 
 	private JPanel contentPane;
 	
-
+//jkljlkjljklj
 
 	/**
 	 * Launch the application.
